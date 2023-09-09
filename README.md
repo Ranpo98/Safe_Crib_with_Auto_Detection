@@ -25,27 +25,23 @@ The "Safe Crib With Auto Hazard-Detection" is an innovative project aimed at uti
 
 ## Repository Contents
 
-In this repository, you will find all the files generated throughout the project's progression. Feel free to explore the resources, code, and designs that contributed to the development of the "Safe Crib With Auto Hazard-Detection" project.
+In this repository, you will find all the files generated throughout the project's progression.
 
-**[Repository Files Link](https://drive.google.com/drive/folders/1bxhAEPOq6txB5ij2LOyXRMtPkB4zoaTe?usp=sharing)**
+### ⚠️ License & Usage
+
+Please note that unauthorized use of any files or code found within this repository without explicit permission is strictly prohibited.
 
 ## Getting Started
 
-To delve deeper into the project details, navigate through the repository using the link provided above. Inside, you will find a rich collection of files, including but not limited to:
+To delve deeper into the project details, navigate through the repository. Inside, you will find a rich collection of files, including but not limited to:
 
 - Circuit Designs
 - Code Files
 - Sensor Calibration Data
 - Prototyping Images and Videos
 
-Feel free to clone the repository to your local machine to explore the files in more detail.
-
 ## Conclusion
 
-This project stands as a testament to the fusion of technology and child safety, embodying innovation and dedication. Your feedback and insights are highly valued as we aim to refine and expand the project further.
-
-## Contact
-
-For further inquiries or if you would like to collaborate, feel free to reach out.
+This project stands as a testament to the fusion of technology and child safety, embodying innovation and dedication.
 
 Thank you for visiting the "Safe Crib With Auto Hazard-Detection" project repository!
